@@ -28,6 +28,6 @@ notes/        # 아이디어와 안전 규칙
 
 라이브 방송을 마친 뒤에는 `templates/live.md`를 복사해 `logs/live/`에 날짜별 파일로 저장합니다. 다른 방송을 들으며 배운 점이 있을 때는 `templates/visit.md`를 복사해 `logs/visit/`에 남깁니다. 한 주가 끝날 때는 `templates/weekly-review.md`로 방송 횟수와 작은 변화를 돌아봅니다.
 
-스푼을 처음 익히며 알아둘 내용은 `notes/beginner-guide.md`에, 방송 중 들은 은어는 `notes/spoon-slang.md`에 따로 정리합니다.
+스푼을 처음 익히며 알아둘 내용은 `notes/beginner-guide.md`에, 방송 중 들은 은어는 `notes/spoon-slang.md`에 따로 정리합니다. 익명 기록의 안전 기준은 `notes/safety-rules.md`를 기준으로 합니다.
 
 좋은 기록은 길지 않아도 됩니다. 오늘의 공기, 목소리의 속도, 대화가 편해진 순간, 다음에 한번 더 시도해보고 싶은 것만 남겨도 충분합니다.
