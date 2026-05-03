@@ -1,0 +1,28 @@
+# Local-only music assets
+private/
+assets/private/
+practice/piano/private/
+practice/piano/recordings/
+practice/piano/scores/
+practice/piano/mr/
+
+# Sheet music and copyrighted source files
+*.pdf
+*.musicxml
+*.mxl
+*.mscz
+*.mid
+*.midi
+
+# Audio/video recordings
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
